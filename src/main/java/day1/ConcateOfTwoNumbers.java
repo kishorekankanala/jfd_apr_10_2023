@@ -5,5 +5,6 @@ public class ConcateOfTwoNumbers {
         String x = "sai ";
         String y = "kishore kankanala";
         System.out.println(x.concat(y));
+        System.out.println(x.concat("!"));
     }
 }
