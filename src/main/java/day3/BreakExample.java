@@ -10,6 +10,7 @@ public class BreakExample {
                 continue;
             }
             System.out.println(i);
+            System.out.println(i);
 
             }
             }
